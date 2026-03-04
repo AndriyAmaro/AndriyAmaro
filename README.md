@@ -3,20 +3,38 @@
   <img src="banner.png" alt="Andri Amaro — Full Stack Developer" width="100%" />
 </div>
 
-## Hey, I'm Andri
+<div align="center">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=AndriyAmaro&color=6366f1&style=flat-square&label=Profile+Views)
+  [![LinkedIn](https://img.shields.io/badge/-Andri%20Amaro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andri-amaro)
+  [![Email](https://img.shields.io/badge/-andrifullstackdev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andrifullstackdev@gmail.com)
+
+</div>
+
+<br />
+
+<div align="center">
+  <samp>Full Stack Developer &middot; Systems Thinker &middot; Creator of the Pulse Ecosystem</samp>
+</div>
+
+<br />
 
 I build **production-grade web applications** from design system to deployment.
 
-I created the **Pulse Ecosystem** — a unified design system with 104+ components that powers multiple SaaS products. Each project is fully tested, deployed, and documented with architecture decision records.
+I created the **Pulse Ecosystem** — a unified design system with **104+ components** that powers multiple SaaS products. Each project is fully tested, deployed, and documented with architecture decision records.
 
-&#x1f4cd; Brazil &middot; &#x1f7e2; Open to opportunities
+```
+  3 apps in production  ·  241 automated tests  ·  89 API endpoints  ·  104+ components
+```
+
+> **Currently building:** More apps for the Pulse Ecosystem & preparing templates for the community
 
 ---
 
 ## The Pulse Ecosystem
 
-I don't just build isolated projects — I build an ecosystem.
-Every app shares the same design system, architectural patterns, and quality standards.
+> *I don't just build isolated projects — I build an ecosystem.*
+> *Every app shares the same design system, architectural patterns, and quality standards.*
 
 <table>
   <tr>
@@ -27,7 +45,7 @@ Every app shares the same design system, architectural patterns, and quality sta
         <strong>Pulse Design System</strong>
       </a>
       <br />
-      The foundation — 104+ components, 41 pages, 3 languages
+      <sub>The foundation — 104+ components, 41 pages, 3 languages</sub>
       <br /><br />
       <img src="https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js" />
       <img src="https://img.shields.io/badge/Components-104+-14B8A6?style=flat-square" />
@@ -39,12 +57,12 @@ Every app shares the same design system, architectural patterns, and quality sta
         <strong>Pulse Finance</strong>
       </a>
       <br />
-      Multi-tenant financial SaaS with 143 tests
+      <sub>Multi-tenant financial SaaS with 143 tests</sub>
       <br /><br />
       <img src="https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js" />
       <img src="https://img.shields.io/badge/Tests-143-brightgreen?style=flat-square" />
       <a href="https://dashboard-finance-swart.vercel.app">
-        <img src="https://img.shields.io/badge/Live_Demo-▶-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Live_Demo-%E2%96%B6-blue?style=flat-square" />
       </a>
     </td>
     <td align="center" width="33%">
@@ -54,30 +72,47 @@ Every app shares the same design system, architectural patterns, and quality sta
         <strong>Pulse Chat</strong>
       </a>
       <br />
-      Real-time messaging with voice, reactions & rooms
+      <sub>Real-time messaging with voice, reactions & rooms</sub>
       <br /><br />
       <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/Tests-98-brightgreen?style=flat-square" />
       <a href="https://realtime-chat-eight-beryl.vercel.app">
-        <img src="https://img.shields.io/badge/Live_Demo-▶-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Live_Demo-%E2%96%B6-blue?style=flat-square" />
       </a>
     </td>
   </tr>
 </table>
 
+<details>
+<summary><strong>Coming Soon</strong></summary>
+<br />
+
+| App | Description | Status |
+|-----|-------------|--------|
+| **Pulse Vexiat** | SaaS Project Management Platform | In Development |
+| **Pulse E-commerce** | Full-stack E-commerce Solution | Planned |
+| **Pulse AI** | AI Dashboard & Agent Platform | Planned |
+| **Pulse CRM** | Lightweight CRM System | Planned |
+
+</details>
+
 ---
 
 ## What Sets Me Apart
 
-- **I build systems, not just apps** — Created a design system from scratch and proved it works by shipping 3 products with it
-- **I test what I build** — 241 automated tests across the ecosystem (unit, integration, E2E with Vitest + Playwright)
-- **I think about architecture** — Every project has documented ADRs, scaling strategies, and 3-layer backend separation
-- **I deploy to production** — Nothing sits on localhost. Vercel + Railway + Docker + CI/CD pipelines with GitHub Actions
-- **I document decisions** — Architecture docs explain the "why", not just the "what"
+```
+  Systems Thinking    I build ecosystems, not just apps
+  Quality First       241 automated tests across every project
+  Architecture        Documented ADRs, 3-layer backend, scaling strategies
+  Production Ready    Vercel + Railway + Docker + CI/CD — nothing sits on localhost
+  Documentation       Every decision explained — the "why", not just the "what"
+```
 
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 **Frontend**
 
@@ -94,7 +129,7 @@ Every app shares the same design system, architectural patterns, and quality sta
 ![Hono](https://img.shields.io/badge/Hono-4-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-7-2D3748?style=for-the-badge&logo=prisma)
 
-**Data & Infra**
+**Data & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -109,21 +144,27 @@ Every app shares the same design system, architectural patterns, and quality sta
 ![Vercel](https://img.shields.io/badge/Vercel-Deploy-000?style=for-the-badge&logo=vercel)
 ![Railway](https://img.shields.io/badge/Railway-Deploy-0B0D0E?style=for-the-badge&logo=railway)
 
+</div>
+
 ---
 
 ## By The Numbers
 
+<div align="center">
+
 | Metric | Value |
-|--------|-------|
-| Design System Components | 104+ |
-| Automated Tests | 241 (143 + 98) |
-| REST API Endpoints | 89 (61 + 28) |
-| Socket.io Real-time Events | 32 |
-| Database Models (Prisma) | 23 |
-| Docker Services | 5 |
-| Languages Supported (i18n) | 3 |
-| Documented ADRs | 21 |
-| Projects in Production | 3 |
+|:------:|:-----:|
+| Design System Components | **104+** |
+| Automated Tests | **241** |
+| REST API Endpoints | **89** |
+| Real-time Events (Socket.io) | **32** |
+| Database Models (Prisma) | **23** |
+| Docker Services | **5** |
+| Languages (i18n) | **3** |
+| Architecture Decision Records | **21** |
+| Apps in Production | **3** |
+
+</div>
 
 ---
 
@@ -131,21 +172,33 @@ Every app shares the same design system, architectural patterns, and quality sta
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AndriyAmaro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=AndriyAmaro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"
     alt="GitHub Stats"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyAmaro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyAmaro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117"
     alt="Top Languages"
     height="170"
   />
 </div>
 
+<br />
+
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AndriyAmaro&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AndriyAmaro&theme=tokyonight&hide_border=true&background=0d1117"
     alt="GitHub Streak"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AndriyAmaro&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=6366f1&point=818cf8&area=true&area_color=6366f1"
+    alt="Contribution Graph"
+    width="100%"
   />
 </div>
 
@@ -166,4 +219,6 @@ Every app shares the same design system, architectural patterns, and quality sta
   <sub>I believe great software is built with systems thinking, not just code.</sub>
   <br />
   <sub>Every component tested. Every decision documented. Every app deployed.</sub>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=60&section=footer" width="100%" />
 </div>
