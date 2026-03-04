@@ -168,38 +168,32 @@ I created the **Pulse Ecosystem** — a unified design system with **104+ compon
 
 ---
 
-## GitHub Stats
+## Architecture & Workflow
+
+```
+                    ┌─────────────────────────────────┐
+                    │      PULSE DESIGN SYSTEM         │
+                    │    104+ Reusable Components       │
+                    └──────────┬──────────────────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+     ┌────────▼──────┐ ┌──────▼───────┐ ┌──────▼───────┐
+     │  PULSE FINANCE │ │  PULSE CHAT  │ │   COMING     │
+     │  Next.js+Hono  │ │ React+Express│ │   SOON...    │
+     │  143 tests     │ │  98 tests    │ │  Vexiat, AI  │
+     └────────────────┘ └──────────────┘ └──────────────┘
+              │                │                │
+              └────────────────┼────────────────┘
+                               │
+     ┌─────────────────────────▼─────────────────────────┐
+     │              SHARED INFRASTRUCTURE                 │
+     │   PostgreSQL · Redis · Docker · CI/CD · Vercel     │
+     └───────────────────────────────────────────────────┘
+```
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AndriyAmaro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyAmaro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117"
-    alt="Top Languages"
-    height="170"
-  />
-</div>
-
-<br />
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AndriyAmaro&theme=tokyonight&hide_border=true&background=0d1117"
-    alt="GitHub Streak"
-  />
-</div>
-
-<br />
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AndriyAmaro&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=6366f1&point=818cf8&area=true&area_color=6366f1"
-    alt="Contribution Graph"
-    width="100%"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=Building+the+Pulse+Ecosystem+%E2%80%94+one+app+at+a+time" alt="Typing SVG" />
 </div>
 
 ---
