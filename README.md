@@ -171,29 +171,36 @@ I created the **Pulse Ecosystem** — a unified design system with **104+ compon
 ## Architecture & Workflow
 
 <div align="center">
+<table>
+<tr>
+<td>
 
 ```
-              ┌───────────────────────────────────┐
-              │       PULSE DESIGN SYSTEM          │
-              │     104+ Reusable Components        │
-              └───────────────┬───────────────────┘
-                              │
-            ┌─────────────────┼─────────────────┐
-            │                 │                 │
-   ┌────────▼────────┐ ┌─────▼──────┐ ┌────────▼────────┐
-   │  PULSE FINANCE  │ │ PULSE CHAT │ │    COMING SOON   │
-   │  Next.js + Hono │ │React+Express│ │  Vexiat · AI    │
-   │   143 tests     │ │  98 tests  │ │  CRM · LMS      │
-   └─────────────────┘ └────────────┘ └─────────────────┘
-            │                 │                 │
-            └─────────────────┼─────────────────┘
-                              │
-   ┌──────────────────────────▼──────────────────────────┐
-   │              SHARED INFRASTRUCTURE                   │
-   │    PostgreSQL · Redis · Docker · CI/CD · Vercel      │
-   └─────────────────────────────────────────────────────┘
+         ┌──────────────────────────────┐
+         │     PULSE DESIGN SYSTEM      │
+         │   104+ Reusable Components   │
+         └──────────────┬───────────────┘
+                        │
+         ┌──────────────┼──────────────┐
+         │              │              │
+    ┌────▼─────┐  ┌─────▼────┐  ┌─────▼─────┐
+    │ FINANCE  │  │   CHAT   │  │  COMING   │
+    │ Next.js  │  │  React   │  │  SOON...  │
+    │  + Hono  │  │ +Express │  │ Vexiat·AI │
+    │143 tests │  │ 98 tests │  │ CRM · LMS │
+    └────┬─────┘  └─────┬────┘  └─────┬─────┘
+         │              │              │
+         └──────────────┼──────────────┘
+                        │
+    ┌───────────────────▼───────────────────┐
+    │       SHARED INFRASTRUCTURE           │
+    │ PostgreSQL·Redis·Docker·CI/CD·Vercel  │
+    └───────────────────────────────────────┘
 ```
 
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
