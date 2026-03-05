@@ -171,10 +171,7 @@ I created the **Pulse Ecosystem** — a unified design system with **104+ compon
 ## Architecture & Workflow
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://svg.template.creately.com/none">
-    <img src="assets/architecture.svg" alt="Pulse Ecosystem Architecture" width="560" />
-  </picture>
+  <img src="assets/architecture.svg" alt="Pulse Ecosystem Architecture" width="560" />
 </div>
 
 <div align="center">
