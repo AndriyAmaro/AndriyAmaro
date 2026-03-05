@@ -1,6 +1,6 @@
 <!-- Banner - Replace with your custom banner -->
 <div align="center">
-  <img src="banner.png" alt="Andri Amaro — Full Stack Developer" width="100%" />
+  <img src="banner.png" alt="Andri Amaro · Full Stack Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -175,7 +175,7 @@ I created the **Pulse Ecosystem** — a unified design system with **104+ compon
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=Building+the+Pulse+Ecosystem+%E2%80%94+one+app+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=Building+the+Pulse+Ecosystem+·+one+app+at+a+time" alt="Typing SVG" />
 </div>
 
 ---
